@@ -12,9 +12,5 @@
 \\___[ custom operating system made from scratch<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `c`, `asm`
 
-⭐ **Certifications**: `C|EH Practical`, `eJPT`, `eCPPT`, `CRTP`, `CRTE*`, `OSCP*`, `PNPT*`
-
-📝 **Blog**: I'm currently documenting my progress with malware development, binary exploitation, and soon, os development on my blog which you can find [here](https://www.crow.rip). Here's the most recent post: [Indirect System Calls](https://www.crow.rip/crows-nest/mal/dev/inject/syscalls/indirect-syscalls).
-
-## `👨‍💻` DEVELOPMENT
-[![](https://skillicons.dev/icons?i=c,cpp,python,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
+### `👨‍💻` Development
+[![](https://skillicons.dev/icons?i=python,node,bash,powershell,neovim,vim,visualstudio,vscode,arch,windows)](https://skillicons.dev)
