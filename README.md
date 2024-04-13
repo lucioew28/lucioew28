@@ -4,7 +4,7 @@
 
 🌱 **Projects**:
 
-- `💉` **`extends`**<br>
+- `⚙️` **`extends`**<br>
 A repository of components created using Shadcn UI.<br>
 
 ### `👨‍💻` Development
