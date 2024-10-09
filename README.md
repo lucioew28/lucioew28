@@ -1,8 +1,8 @@
 # Hi, I'm Lúcio
 Full stack software developer located in Brazil, currently focusing on AWS Python Lambda API optimizations and testing. Proficient in React.js and TypeScript for frontend development.
 
-[![](https://img.shields.io/badge/LinkedIn-Lúcio-blue?style=flat-square)](https://www.linkedin.com/in/lucioew-software-engineer/)
-[![](https://img.shields.io/badge/Email-maciej%40radzikowski.com.pl-red?style=flat-square)](mailto:lucioew28@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-lucioew-software-engineer-blue?style=flat-square)](https://www.linkedin.com/in/lucioew-software-engineer/)
+[![](https://img.shields.io/badge/Email-lucioew28@gmail.com-red?style=flat-square)](mailto:lucioew28@gmail.com)
 
 ## My Tech Stack
 
