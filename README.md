@@ -36,7 +36,6 @@ Full stack software developer located in Brazil, currently focusing on AWS Pytho
 
 ![AWS](http://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=ffffff)
 ![Serverless](http://img.shields.io/badge/-Serverless-E2231A?style=flat-square&logo=serverless&logoColor=ffffff)
-&nbsp;
 ![Docker](http://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 #### Miscellaneous
